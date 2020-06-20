@@ -403,8 +403,9 @@ body{
     font-size: 1.5rem;
 }
 
-.contact-item i{
+.contact-item img{
     margin-right: 2rem;
+    vertical-align: middleup;
 }
 
 .footer-nav-items{
